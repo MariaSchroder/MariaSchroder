@@ -1,5 +1,6 @@
-Header
+![Header](https://github.com/MariaSchroder/MariaSchroder/blob/main/assets/github-snake.svg)
 
+![Header](https://github.com/MariaSchroder/MariaSchroder/blob/main/assets/github-snake.svg)
 About me 
 
 Languages and Tools
