@@ -1,6 +1,7 @@
 <h1 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height=50px> 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 Maria.</h1>
 
 <h3 align="center">Frontend Developer</h3>
+
 <br/>
 
 <p align="center">
@@ -14,7 +15,7 @@
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" />
  </a>
  <br>
- <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-BaggerFast&color=green" />
+ <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=MariaSchroder&color=green" />
 </p>
 
 <p align="center">
@@ -22,22 +23,20 @@
 </p>
 
 
-<!-- 
+<br/>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 75px height=75px></h2>
+<h2 align="center"> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 75px height=75px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My WordPress Blog, Medium Profile
+- 🔭 I’m currently working on my study projects
 
-- 🌱 I’m currently learning TypeScript, React, Flask 
+- 🌱 I’m currently learning Java Script, React, Redux, Git
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 👯 I’m looking for a company, where I can replace my skills and knowledge
 
-- 💬 Talk to me about Python, JavaScript,Open Source  -->
-
-<br/>
+<br/><br/>
 
 <div align="center"> 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px height=32px> </h2>
